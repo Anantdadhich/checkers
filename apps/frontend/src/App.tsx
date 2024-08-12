@@ -5,7 +5,8 @@ import { Suspense } from "react"
 import { RecoilRoot } from "recoil"
 import { Layout } from "./layout"
 import { Loader } from "./components/Loader"
-import { Login } from "./Screens/Login"
+import Login from "./Screens/Login"
+
 
 function App(){
   return (
